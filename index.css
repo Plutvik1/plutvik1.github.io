@@ -1,1 +1,12 @@
+#main {
+    width: 100vw;
+    height: 100vh;
+    background-color: white;
+}
 
+#box {
+    width: 50vw;
+    height: 50vh;
+    background-color: white;
+    box-shadow: 13px 14px 24px 3px rgba(89,89,89,1);
+}
