@@ -13,11 +13,11 @@
 }
 
 #kid-box{
-    height: 70vh;
+    height: 50vh;
 }
 
 #parent-box{
-    height: 50vh;
+    height: 70vh;
 }
 
 .text-inputs {
@@ -29,6 +29,7 @@
     width: 155px;
     height: 60px;
     border-radius: 30px;
+    cursor: pointer;
 }
 #kid-button {
     background-color: rgb(0, 106, 255);
